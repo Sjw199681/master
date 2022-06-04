@@ -14,3 +14,4 @@
 # 存储库
 memory = [{'name': "小明", 'age': 20, 'gender': '男'}, {'name': "小强", 'age': 21, 'gender': '女'},
           {'name': "小亮", 'age': 22, 'gender': '男'}]
+
