@@ -1,10 +1,10 @@
 #递归实现斐波那契数列
 
-
-
-
-
-
+def num(n):
+    if n <= 1:
+        return n
+    else:
+        return num(n - 1) + num(n - 2)
 
 
 
