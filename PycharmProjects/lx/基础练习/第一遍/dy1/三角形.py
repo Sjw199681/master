@@ -1,14 +1,14 @@
 # 3.三角形
 # 打印三角形---倒三角
-a = int(input("打印列数： "))
-while a > 0:
-    list1 = a
-    while list1 > 0:
-        print("*", end="")
-        list1 -= 1
-    a -= 1
-    print()
-# 正三角
+# a = int(input("打印列数： "))
+# while a > 0:
+#     list1 = a
+#     while list1 > 0:
+#         print("*", end="")
+#         list1 -= 1
+#     a -= 1
+#     print()
+# # 正三角
 a = 1
 while a <= 5:
     i = 1
